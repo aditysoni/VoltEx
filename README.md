@@ -16,11 +16,8 @@ npx hardhat run scripts/deploy.js
 #This platform allows users to trade electricity credits in a decentralized and transparent way. Users can:
 
 Buy and sell electricity credits.
-
 Participate in auctions to bid on electricity credits.
-
 Claim electricity after winning an auction.
-
 Check details of ongoing and past auctions.
 
 ```Features```
